@@ -22,7 +22,7 @@ binary, so...
 
 ## Usage.
 
-Set the following environmental variables: DDNS_domain, DDNS_host, DDNS_pwd and execute the go app in that environment.
+Set the following environmental variables: `DDNS_domain`, `DDNS_host`, `DDNS_pwd` and execute the go app in that environment.
 
 ## License 
 
